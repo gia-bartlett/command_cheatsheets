@@ -1,6 +1,7 @@
 vagrant init -> create a basic vagrantfile (add --minimal to remove the instructional commentary)  
 vagrant up -> get vagrantfile up and running  
-vagrant ssh -> to ssh into VM
+vagrant ssh -> to ssh into VM  
+vagrant reload -> update any changes to vagrantfile  
 exit -> return to workstation  
 vagrant halt ->
 vagrant suspend ->  
